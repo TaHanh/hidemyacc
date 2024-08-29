@@ -1,0 +1,259 @@
+{
+  "proxies": [
+    {
+      "id": "zeusproxy",
+      "discount": 5,
+      "logo": "../../assets/images/store/logo-zeus-proxy.png",
+      "name": "Zeus Proxy",
+      "promo": "HIDEMYACC5",
+      "tags": "Rotating Resi",
+      "color": "#FCF3D4",
+      "url": "",
+      "isDisplay": false
+    },
+    {
+      "id": "iproyal",
+      "discount": 5,
+      "logo": "../../assets/images/store/logo-iproyal.png",
+      "name": "IPRoyal",
+      "promo": "HIDEMYACC5",
+      "tags": "Static Resi,Rotating Resi,Data,Mobile",
+      "color": "#D1F2F7",
+      "url": "https://iproyal.com?r=276234",
+      "isDisplay": true
+    },
+    {
+      "id": "s5proxy",
+      "discount": 15,
+      "logo": "../../assets/images/store/logo-s5proxy.png",
+      "name": "S5 PROXY",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi,Rotating Resi",
+      "color": "#E1EBFF",
+      "url": "https://www.abcproxy.com/?code=INGK0I0I",
+      "isDisplay": true
+    },
+    {
+      "id": "proxysio",
+      "discount": 5,
+      "logo": "../../assets/images/store/logo-proxys-io.png",
+      "name": "Proxys.io",
+      "promo": "HIDEMYACC_5",
+      "tags": "Static Resi,Rotating Resi,Data,Mobile",
+      "color": "#D9FBE2",
+      "url": "https://proxys.io/?refid=126210",
+      "isDisplay": true
+    },
+    {
+      "id": "netnut",
+      "discount": 20,
+      "logo": "../../assets/images/store/logo-netnut.png",
+      "name": "",
+      "promo": "HIDEMYACC20",
+      "tags": "Static Resi,Rotating Resi,Data,Mobile",
+      "color": "#FFF0D4",
+      "url": "https://netnut.io/?ref=hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "okeyproxy",
+      "discount": 0,
+      "logo": "../../assets/images/store/logo-okeyproxy.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Static Resi,Rotating Resi,Data",
+      "color": "#ECEFFF",
+      "url": "https://www.okeyproxy.com/?link=ef25c0",
+      "isDisplay": true
+    },
+    {
+      "id": "922proxy",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-922.png",
+      "name": "",
+      "promo": "HideMyAcc2023",
+      "tags": "Static Resi",
+      "color": "#FFE9DF",
+      "url": "https://www.922proxy.com/index.html?inviter_code=HIDEMYACC",
+      "isDisplay": true
+    },
+    {
+      "id": "infatica",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-infatica.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Rotating Resi,Data,Mobile",
+      "color": "#F0E4FF",
+      "url": "https://dashboard.infatica.io/aff.php?aff=338",
+      "isDisplay": true
+    },
+    {
+      "id": "lunaproxy",
+      "discount": 5,
+      "logo": "../../assets/images/store/logo-lunaproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi,Rotating Resi,Data",
+      "color": "#DAEAFF",
+      "url": "https://www.lunaproxy.com/register?Invitation_code=3RK0RSIW",
+      "isDisplay": true
+    },
+    {
+      "id": "proxyempire",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-proxyempire.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Static Resi,Rotating Resi,Data,Mobile",
+      "color": "#EAE2FF",
+      "url": "https://proxyempire.io/?ref=oty2ogm",
+      "isDisplay": true
+    },
+    {
+      "id": "socksescort",
+      "discount": 5,
+      "logo": "../../assets/images/store/logo-socksescort.png",
+      "name": "Socksescort",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi",
+      "color": "#E2F9DB",
+      "url": "https://socksescort.com/account/affiliate",
+      "isDisplay": true
+    },
+    {
+      "id": "tsp",
+      "discount": 20,
+      "logo": "../../assets/images/store/logo-tsp.png",
+      "name": "The Social Proxy",
+      "promo": "See more",
+      "tags": "Mobile",
+      "color": "#E7F1FF",
+      "url": "https://thesocialproxy.com/?ref=support@hidemyacc.com",
+      "isDisplay": true
+    },
+    {
+      "id": "smartproxy",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-smartproxy.png",
+      "name": "smartproxy",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi,Static Resi,Data,Mobile",
+      "color": "#F9E2E5",
+      "url": "https://smartproxy.pxf.io/zNbVK0",
+      "isDisplay": true
+    },
+    {
+      "id": "PIAS5proxy",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-PIAS5proxy.png",
+      "name": "",
+      "promo": "Hidemyacc1",
+      "tags": "Static Resi",
+      "color": "#DBE6FF",
+      "url": "https://www.piaproxy.com/vn/alliance",
+      "isDisplay": false
+    },
+    {
+      "id": "pingproxy",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-pingproxy.png",
+      "name": "Ping Proxy",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi,Data",
+      "color": "#E0DEF4",
+      "url": "http://www.pingproxies.com?aff=39",
+      "isDisplay": true
+    },
+    {
+      "id": "360proxy",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-360proxy.png",
+      "name": "360Proxy",
+      "promo": "hidemyacc",
+      "tags": "Static Resi,Rotating Resi",
+      "color": "#ECEFFF",
+      "url": "https://www.360proxy.com/register.html?invite=18873373",
+      "isDisplay": true
+    },
+    {
+      "id": "nimble",
+      "discount": "+ $75",
+      "logo": "../../assets/images/store/logo-nimble.png",
+      "name": "",
+      "promo": "Connect",
+      "tags": "Static Resi,Rotating Resi,Data,Mobile",
+      "color": "#EAEDFF",
+      "url": "https://tracking.nimbleway.com/SH3J",
+      "isDisplay": true
+    },
+    {
+      "id": "asocks",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-asocks.png",
+      "name": "",
+      "promo": "Connect",
+      "tags": "Static Resi,Rotating Resi,Data",
+      "color": "#F0E4FF",
+      "url": "",
+      "isDisplay": true
+    },
+    {
+      "id": "smsactivate",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-smsactivate-proxy.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Data,Rotating Resi,Mobile",
+      "color": "#FED7BA",
+      "url": "https://proxy.sms-activate.org/ref/8136139",
+      "isDisplay": true
+    },
+    {
+      "id": "ipfoxy",
+      "discount": 8,
+      "logo": "../../assets/images/store/logo-ipfoxy.png",
+      "name": "IPFoxy",
+      "promo": "hidemyacc",
+      "tags": "Static Resi,Rotating Resi,Data",
+      "color": "#ECEFFF",
+      "url": "https://referral.ipfoxy.com/ala9f4rXzCrtki4",
+      "isDisplay": true
+    },
+    {
+      "id": "sprighthub",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-sprighthub.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi",
+      "color": "#FEE6DA",
+      "url": "https://sprighthub.com/r/hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "ghostproxies",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-ghostproxies.png",
+      "name": "",
+      "promo": "contact",
+      "tags": "Static Resi,Rotating Resi,Data,Mobile",
+      "color": "#F1F3FF",
+      "url": "https://ghostproxies.com/",
+      "isDisplay": true
+    }
+  ],
+  "vpn":[
+     {
+      "id": "veepn",
+      "discount": 10,
+      "logo": "../../assets/images/store/logo-veepn.png",
+      "name": "",
+       "promo":: "Hidemyacc10",
+      "tags": "",
+      "color": "rgba(18, 207, 143, 0.15)",
+      "url": "https://veepn.g2afse.com/click?pid=1803&offer_id=59",
+      "isDisplay": true,
+    }
+  ]
+}
