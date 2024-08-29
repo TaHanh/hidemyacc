@@ -1,5 +1,5 @@
 {
-  landscapeImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_a3MU2A2aq3BYE3GoERA9aAZIPpwAVV2c4Q&s",
-  portraitImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_a3MU2A2aq3BYE3GoERA9aAZIPpwAVV2c4Q&s",
-  url: "https://facebook.com",
+  "landscapeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_a3MU2A2aq3BYE3GoERA9aAZIPpwAVV2c4Q&s",
+  "portraitImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_a3MU2A2aq3BYE3GoERA9aAZIPpwAVV2c4Q&s",
+  "url": "https://facebook.com",
 }
