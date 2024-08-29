@@ -384,6 +384,17 @@
       "color": "rgba(49, 182, 250, 0.1)",
       "url": "https://www.resiproxies.net/account/sign-up&ref=10342",
       "isDisplay": true
+    },
+    {
+      "id": "sslprivateproxy",
+      "discount": "Up to 30%",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-resiproxies.png",
+      "name": "",
+      "promo": "HIDEMYACC30,HIDEMYACC10,HIDEMYACC20",
+      "tags": "Data",
+      "color": "rgba(49, 182, 250, 0.1)",
+      "url": "http://www.sslprivateproxy.com/billing/aff.php?aff=1364",
+      "isDisplay": true
     }
   ],
   "vpn": [
