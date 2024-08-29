@@ -243,13 +243,13 @@
       "isDisplay": true
     }
   ],
-  "vpn":[
-     {
+  "vpn": [
+    {
       "id": "veepn",
       "discount": 10,
       "logo": "../../assets/images/store/logo-veepn.png",
       "name": "",
-       "promo":: "Hidemyacc10",
+      "promo": "Hidemyacc10",
       "tags": "",
       "color": "rgba(18, 207, 143, 0.15)",
       "url": "https://veepn.g2afse.com/click?pid=1803&offer_id=59",
