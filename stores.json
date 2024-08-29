@@ -3,7 +3,7 @@
     {
       "id": "iproyal",
       "discount": 5,
-      "logo": "../../assets/images/store/logo-iproyal.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-iproyal.png",
       "name": "IPRoyal",
       "promo": "HIDEMYACC5",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
@@ -14,7 +14,7 @@
     {
       "id": "s5proxy",
       "discount": 15,
-      "logo": "../../assets/images/store/logo-s5proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-s5proxy.png",
       "name": "S5 PROXY",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Resi",
@@ -25,7 +25,7 @@
     {
       "id": "proxysio",
       "discount": 5,
-      "logo": "../../assets/images/store/logo-proxys-io.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxys-io.png",
       "name": "Proxys.io",
       "promo": "HIDEMYACC_5",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
@@ -36,7 +36,7 @@
     {
       "id": "netnut",
       "discount": 20,
-      "logo": "../../assets/images/store/logo-netnut.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-netnut.png",
       "name": "",
       "promo": "HIDEMYACC20",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
@@ -47,7 +47,7 @@
     {
       "id": "okeyproxy",
       "discount": 0,
-      "logo": "../../assets/images/store/logo-okeyproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-okeyproxy.png",
       "name": "",
       "promo": "Contact",
       "tags": "Static Resi,Rotating Resi,Data",
@@ -58,7 +58,7 @@
     {
       "id": "922proxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-922.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-922.png",
       "name": "",
       "promo": "HideMyAcc2023",
       "tags": "Static Resi",
@@ -69,7 +69,7 @@
     {
       "id": "infatica",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-infatica.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-infatica.png",
       "name": "",
       "promo": "Contact",
       "tags": "Rotating Resi,Data,Mobile",
@@ -80,7 +80,7 @@
     {
       "id": "lunaproxy",
       "discount": 5,
-      "logo": "../../assets/images/store/logo-lunaproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-lunaproxy.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Resi,Data",
@@ -91,7 +91,7 @@
     {
       "id": "proxyempire",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-proxyempire.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxyempire.png",
       "name": "",
       "promo": "Contact",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
@@ -102,7 +102,7 @@
     {
       "id": "socksescort",
       "discount": 5,
-      "logo": "../../assets/images/store/logo-socksescort.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-socksescort.png",
       "name": "Socksescort",
       "promo": "HIDEMYACC",
       "tags": "Static Resi",
@@ -113,7 +113,7 @@
     {
       "id": "tsp",
       "discount": 20,
-      "logo": "../../assets/images/store/logo-tsp.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-tsp.png",
       "name": "The Social Proxy",
       "promo": "See more",
       "tags": "Mobile",
@@ -124,7 +124,7 @@
     {
       "id": "smartproxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-smartproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-smartproxy.png",
       "name": "smartproxy",
       "promo": "HIDEMYACC10",
       "tags": "Static Resi,Static Resi,Data,Mobile",
@@ -135,7 +135,7 @@
     {
       "id": "PIAS5proxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-PIAS5proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-PIAS5proxy.png",
       "name": "",
       "promo": "Hidemyacc1",
       "tags": "Static Resi",
@@ -146,7 +146,7 @@
     {
       "id": "pingproxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-pingproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-pingproxy.png",
       "name": "Ping Proxy",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Data",
@@ -157,7 +157,7 @@
     {
       "id": "360proxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-360proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-360proxy.png",
       "name": "360Proxy",
       "promo": "hidemyacc",
       "tags": "Static Resi,Rotating Resi",
@@ -168,7 +168,7 @@
     {
       "id": "nimble",
       "discount": "+ $75",
-      "logo": "../../assets/images/store/logo-nimble.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-nimble.png",
       "name": "",
       "promo": "Connect",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
@@ -179,7 +179,7 @@
     {
       "id": "asocks",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-asocks.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-asocks.png",
       "name": "",
       "promo": "Connect",
       "tags": "Static Resi,Rotating Resi,Data",
@@ -190,7 +190,7 @@
     {
       "id": "smsactivate",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-smsactivate-proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-smsactivate-proxy.png",
       "name": "",
       "promo": "HIDEMYACC10",
       "tags": "Data,Rotating Resi,Mobile",
@@ -201,7 +201,7 @@
     {
       "id": "ipfoxy",
       "discount": 8,
-      "logo": "../../assets/images/store/logo-ipfoxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ipfoxy.png",
       "name": "IPFoxy",
       "promo": "hidemyacc",
       "tags": "Static Resi,Rotating Resi,Data",
@@ -212,7 +212,7 @@
     {
       "id": "proxyseller",
       "discount": 15,
-      "logo": "../../assets/images/store/logo-proxy-seller.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxy-seller.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
@@ -223,7 +223,7 @@
     {
       "id": "9proxy",
       "discount": 5,
-      "logo": "../../assets/images/store/logo-9proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-9proxy.png",
       "name": "",
       "promo": "9P_HIDEMYACC",
       "tags": "Residentialle",
@@ -234,7 +234,7 @@
     {
     "id": "marsoproxy",
     "discount": 10,
-    "logo": "../../assets/images/store/logo-marsoproxy.png",
+    "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-marsoproxy.png",
     "name": "",
     "promo": "hidemyacc",
     "tags": "Static Resi,Rotating Data,Data,Mobile",
@@ -245,7 +245,7 @@
     {
       "id": "tabproxy",
       "discount": "10% traffic",
-      "logo": "../../assets/images/store/logo-tabproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-tabproxy.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Data",
@@ -256,7 +256,7 @@
     {
       "id": "databay",
       "discount": 20,
-      "logo": "../../assets/images/store/logo-databay.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-databay.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Data",
@@ -267,7 +267,7 @@
     {
       "id": "naproxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-naproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-naproxy.png",
       "name": "",
       "promo": "7JL59T",
       "tags": "Static Resi,Rotating Data",
@@ -278,7 +278,7 @@
     {
       "id": "goproxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-goproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-goproxy.png",
       "name": "",
       "promo": "Hidemyacc10",
       "tags": "Static Resi,Rotating Resi,Data",
@@ -289,7 +289,7 @@
     {
       "id": "proxysale",
       "discount": "Up to 20%",
-      "logo": "../../assets/images/store/logo-proxy-sale.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxy-sale.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Resi,Mobile",
@@ -300,7 +300,7 @@
     {
       "id": "youproxy",
       "discount": 15,
-      "logo": "../../assets/images/store/logo-youproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-youproxy.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Data,Mobile",
@@ -311,7 +311,7 @@
     {
       "id": "lightning",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-lightning.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-lightning.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Rotating Resi,Data,Mobile",
@@ -322,7 +322,7 @@
     {
       "id": "privateproxy",
       "discount": 25,
-      "logo": "../../assets/images/store/logo-private-proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-private-proxy.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Rotating Resi,Data",
@@ -333,7 +333,7 @@
     {
       "id": "simplynode",
       "discount": 25,
-      "logo": "../../assets/images/store/logo-simplynode.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-simplynode.png",
       "name": "",
       "promo": "HideMyAcc25",
       "tags": "Rotating Resi,Mobile",
@@ -344,7 +344,7 @@
     {
       "id": "coproxy",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-coproxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-coproxy.png",
       "name": "",
       "promo": "hidemyacc10",
       "tags": "Data",
@@ -355,7 +355,7 @@
     {
       "id": "mobileproxyspace",
       "discount": 21,
-      "logo": "../../assets/images/store/logo-mobile-proxy.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-mobile-proxy.png",
       "name": "",
       "promo": "Hidemyacc",
       "tags": "Mobile",
@@ -366,7 +366,7 @@
     {
       "id": "anyip",
       "discount": 5,
-      "logo": "../../assets/images/store/logo-anyip.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-anyip.png",
       "name": "",
       "promo": "HIDEMYACC",
       "tags": "Static Resi,Rotating Resi,Mobile",
@@ -377,7 +377,7 @@
     {
       "id": "resiproxies",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-resiproxies.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-resiproxies.png",
       "name": "",
       "promo": "RPXHIDEACC",
       "tags": "Static Resi,Rotating Resi",
@@ -390,7 +390,7 @@
     {
       "id": "veepn",
       "discount": 10,
-      "logo": "../../assets/images/store/logo-veepn.png",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-veepn.png",
       "name": "",
       "promo": "Hidemyacc10",
       "tags": "",
