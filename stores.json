@@ -12,7 +12,7 @@
       "isDisplay": true
     },
     {
-      "id": "s5proxy",
+      "id": "s5proxy-square",
       "discount": 15,
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-s5proxy.png",
       "name": "S5 PROXY",
@@ -23,7 +23,7 @@
       "isDisplay": true
     },
     {
-      "id": "proxysio",
+      "id": "proxysio-square",
       "discount": 5,
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxys-io.png",
       "name": "Proxys.io",
