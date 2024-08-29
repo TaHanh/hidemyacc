@@ -1,9 +1,9 @@
 {
-  "landscapeImage": "https://hidemyacc.com/images/banner-ads/sequencevi.gif",
-  "portraitImage": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
+  "landscapeImage": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
+  "portraitImage": "",
   "landscapeImages": {
     "en": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
-    "vi": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_vie.gif",
+    "vi-VN": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_vie.gif",
     "zh": ""
   },
   "portraitImages": {
