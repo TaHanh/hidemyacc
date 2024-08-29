@@ -1,5 +1,15 @@
 {
   "landscapeImage": "https://hidemyacc.com/images/banner-ads/sequencevi.gif",
   "portraitImage": "https://png.pngtree.com/thumb_back/fh260/background/20210316/pngtree-vertical-version-of-cherry-blossom-photography-romantic-pink-image_586839.jpg",
+  "landscapeImages": {
+    "en": "",
+    "vi": "",
+    "zh": ""
+  },
+  "portraitImages": {
+    "en": "",
+    "vi": "",
+    "zh": ""
+  },
   "url": "https://facebook.com"
 }
