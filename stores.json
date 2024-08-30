@@ -170,7 +170,7 @@
       "discount": "+ $75",
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-nimble.png",
       "name": "",
-      "promo": "Connect",
+      "promo": "Contact",
       "tags": "Static Resi,Rotating Resi,Data,Mobile",
       "color": "#EAEDFF",
       "url": "https://tracking.nimbleway.com/SH3J",
@@ -181,7 +181,7 @@
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-asocks.png",
       "name": "",
-      "promo": "Connect",
+      "promo": "Contact",
       "tags": "Static Resi,Rotating Resi,Data",
       "color": "#F0E4FF",
       "url": "",
@@ -386,16 +386,127 @@
       "isDisplay": true
     },
     {
-      "id": "sslprivateproxy",
-      "discount": "Up to 30%",
-      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-resiproxies.png",
+      "id": "stormproxies",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-stormproxies.png",
       "name": "",
-      "promo": "HIDEMYACC30,HIDEMYACC10,HIDEMYACC20",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi",
+      "color": "#FFE4E5",
+      "url": "https://stormproxies.com/clients/aff/go/hidemyacc_stormproxies",
+      "isDisplay": true
+    },
+    {
+      "id": "astroproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-astroproxy.png",
+      "name": "",
+      "promo": "Hidemyacc",
+      "tags": "Rotating Resi, Data, Mobile",
+      "color": "#ECFCF8",
+      "url": "https://astroproxy.com/r/ab36b8e6fc6080a4a8f3191219ac9f21",
+      "isDisplay": true
+    },
+    {
+      "id": "ltesocks",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ltesocks.png",
+      "name": "",
+      "promo": "Hidemyacc10",
+      "tags": "Mobile",
+      "color": "#E6F1F9",
+      "url": "https://my.ltesocks.io/#/register?promo=HidemyaccAntidetect",
+      "isDisplay": true
+    },
+    {
+      "id": "ipnproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ipnproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi, Data, Mobile",
+      "color": "#FDECEC",
+      "url": "https://ipnproxy.com/en",
+      "isDisplay": true
+    },
+    {
+      "id": "buypersonalproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-buypersonalproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Static Resi,Rotating Resi,Data",
+      "color": "#FFFBEA",
+      "url": "https://www.buypersonalproxy.com/?ref=34205",
+      "isDisplay": true
+    },
+    {
+      "id": "leetsox",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-leetsox.png",
+      "name": "",
+      "promo": "Hidemyacc10",
+      "tags": "Data, Mobile",
+      "color": "#EDF1FF",
+      "url": "https://leetsox.com/?invite_hash=C917f4zAhLcukrr9Kh5YptS5VwTHTB8m",
+      "isDisplay": true
+    },
+    {
+      "id": "nodemaven",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-nodemaven.png",
+      "name": "",
+      "promo": "HIDEMYACC30",
+      "tags": "Rotating Resi",
+      "color": "#D1E0FB",
+      "url": "https://nodemaven.com/?a_aid=Hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "ipcola",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ipcola.png",
+      "name": "",
+      "promo": "tutnbymsuohouan",
+      "tags": "Rotating Resi",
+      "color": "#D9D7F4",
+      "url": "https://www.ipcola.com/",
+      "isDisplay": true
+    },
+    {
+      "id": "sslprivateproxy",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-sslprivateproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC30, HIDEMYACC20, HIDEMYACC10",
       "tags": "Data",
-      "color": "rgba(49, 182, 250, 0.1)",
+      "color": "#E3EDF6",
       "url": "http://www.sslprivateproxy.com/billing/aff.php?aff=1364",
       "isDisplay": true
+    },
+    {
+      "id": "cyber-gateway",
+      "discount": "Up to 30%",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-cyber-gateway.png",
+      "name": "",
+      "promo": "hide10",
+      "tags": "Data",
+      "color": "#FDF2F2",
+      "url": "https://cyber-gateway.net/dashboard/aff.php?aff=5",
+      "isDisplay": true
+    },
+    {
+      "id": "waterproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-waterproxy.png",
+      "name": "",
+      "promo": "HIDEMYACCWATER",
+      "tags": "Mobile",
+      "color": "#E7E4FB",
+      "url": "https://waterproxy.com/",
+      "isDisplay": true
     }
+
   ],
   "vpn": [
     {
