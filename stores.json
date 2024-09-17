@@ -475,12 +475,12 @@
     },
     {
       "id": "sslprivateproxy",
-      "discount": 15,
+      "discount": "Up to 30%",
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-sslprivateproxy.png",
       "name": "",
       "promo": "HIDEMYACC30, HIDEMYACC20, HIDEMYACC10",
       "tags": "Data",
-      "color": "#E3EDF6",
+      "color": "#ACC9E5",
       "url": "http://www.sslprivateproxy.com/billing/aff.php?aff=1364",
       "isDisplay": true
     },
