@@ -505,7 +505,74 @@
       "color": "#E7E4FB",
       "url": "https://waterproxy.com/",
       "isDisplay": true
+    },
+    {
+      "id": "supernovanet",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-supernovanet.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Static Resi, Rotating Resi, Mobile",
+      "color": "#EDE6FF",
+      "url": "https://supernovanet.org/?p=hidemyacc",
+      "isDisplay": true
+    },
+    {
+      "id": "proxyma-data",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxyma-data.png",
+      "name": "",
+      "promo": "HIDEMYACC10",
+      "tags": "Rotating Resi",
+      "color": "#FEEEEC",
+      "url": "https://www.az-partners.net/offers/144/link?ap=139518&signature=b33307f7ea3ae46aac196c619e0fcbd52bfac94ab06ed1a8103237e0e080d9ce",
+      "isDisplay": true
+    },
+    {
+      "id": "piaproxy",
+      "discount": 5,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-piaproxy.png",
+      "name": "",
+      "promo": "hidemyacc5",
+      "tags": "Static Resi",
+      "color": "#E9EDF5",
+      "url": "https://www.piaproxy.com/?co=Hidemyacc&ck=?6",
+      "isDisplay": true
+    },
+    {
+      "id": "ninjasproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ninjasproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi, Mobile",
+      "color": "#FFCCCC",
+      "url": "https://a.ninjasproxy.com/44928/142251",
+      "isDisplay": true
+    },
+    {
+      "id": "flyproxy",
+      "discount": 5,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-flyproxy.png",
+      "name": "",
+      "promo": "Hidemyacc",
+      "tags": "Static Resi",
+      "color": "#FFFAE6",
+      "url": "https://www.flyproxy.com/?invitation_code=X3QLEM",
+      "isDisplay": true
+    },
+    {
+      "id": "711proxy",
+      "discount": "$3 coupon",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-711proxy.png",
+      "name": "",
+      "promo": "xzK0xjGi, 20% OFF - Dynamic traffic coupon: xzK0xjGi, 20% OFF - Dynamic quantity coupon: T51ODc2b",
+      "tags": "Rotating Resi, Static Resi",
+      "color": "#E7F2F0",
+      "url": "https://www.711proxy.com/signup?code=352EBD",
+      "isDisplay": true
     }
+
 
   ],
   "vpn": [
