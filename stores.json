@@ -512,7 +512,7 @@
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-supernovanet.png",
       "name": "",
       "promo": "Contact",
-      "tags": "Static Resi, Rotating Resi, Mobile",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
       "color": "#EDE6FF",
       "url": "https://supernovanet.org/?p=hidemyacc",
       "isDisplay": true
@@ -545,7 +545,7 @@
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ninjasproxy.png",
       "name": "",
       "promo": "HIDEMYACC",
-      "tags": "Rotating Resi, Mobile",
+      "tags": "Static Resi, Mobile",
       "color": "#FFCCCC",
       "url": "https://a.ninjasproxy.com/44928/142251",
       "isDisplay": true
@@ -571,8 +571,18 @@
       "color": "#E7F2F0",
       "url": "https://www.711proxy.com/signup?code=352EBD",
       "isDisplay": true
+    },
+    {
+      "id": "flashproxy",
+      "discount": 20,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-flashproxy.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#D7CDF3",
+      "url": "https://www.flashproxy.io/auth/register?r=4d84fc6a-8927-45af-948f-88f858587fcd",
+      "isDisplay": true
     }
-
 
   ],
   "vpn": [
