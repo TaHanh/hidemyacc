@@ -582,6 +582,17 @@
       "color": "#D7CDF3",
       "url": "https://www.flashproxy.io/auth/register?r=4d84fc6a-8927-45af-948f-88f858587fcd",
       "isDisplay": true
+    },
+    {
+      "id": "iprocket",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-iprocket.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi",
+      "color": "#EDF6FA",
+      "url": "https://iprocket.io/center.html#/Register?viteCode=HIDEMYACC",
+      "isDisplay": true
     }
 
   ],
