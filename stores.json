@@ -626,6 +626,17 @@
       "color": "#C0D3F6",
       "url": "https://evomi.com/?p=HIDEMYACC",
       "isDisplay": true
+    },
+    {
+      "id": "proxyomega",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxyomega.png",
+      "name": "",
+      "promo": "Hidemyacc15",
+      "tags": "Rotating Resi",
+      "color": "#EBE7F2",
+      "url": "https://proxyomega.com/",
+      "isDisplay": true
     }
 
   ],
