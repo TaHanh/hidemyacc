@@ -584,6 +584,17 @@
       "isDisplay": true
     },
     {
+      "id": "massive",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-massive.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Rotating Resi",
+      "color": "#FFE5D8",
+      "url": "https://partners.joinmassive.com/plans?ref=ymrkodk",
+      "isDisplay": true
+    },
+    {
       "id": "iprocket",
       "discount": 10,
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-iprocket.png",
@@ -592,6 +603,28 @@
       "tags": "Rotating Resi",
       "color": "#EDF6FA",
       "url": "https://iprocket.io/center.html#/Register?viteCode=HIDEMYACC",
+      "isDisplay": true
+    },
+    {
+      "id": "altproxy",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-altproxy.png",
+      "name": "",
+      "promo": "HIDEMYPROXY",
+      "tags": "Data, Mobile",
+      "color": "#EFF5EC",
+      "url": "",
+      "isDisplay": true
+    },
+    {
+      "id": "evomi",
+      "discount": 5,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-evomi.png",
+      "name": "",
+      "promo": "HIDEMYACC5",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#C0D3F6",
+      "url": "https://evomi.com/?p=HIDEMYACC",
       "isDisplay": true
     }
 
@@ -606,6 +639,17 @@
       "tags": "",
       "color": "rgba(18, 207, 143, 0.15)",
       "url": "https://veepn.g2afse.com/click?pid=1803&offer_id=59",
+      "isDisplay": true
+    },
+    {
+      "id": "altvpn",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-altvpn.png",
+      "name": "",
+      "promo": "HIDEMYPROXY",
+      "tags": "",
+      "color": "#EFF5EC",
+      "url": "",
       "isDisplay": true
     }
   ]
