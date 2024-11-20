@@ -637,6 +637,28 @@
       "color": "#EBE7F2",
       "url": "https://proxyomega.com/",
       "isDisplay": true
+    },
+    {
+      "id": "ipipgo",
+      "discount": 30,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ipipgo.png",
+      "name": "",
+      "promo": "Contact",
+      "tags": "Rotating Resi",
+      "color": "#DFF4F2",
+      "url": "http://www.ipipgo.com/?promotionLink=18339f",
+      "isDisplay": true
+    },
+    {
+      "id": "birdproxies",
+      "discount": 15,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-birdproxies.png",
+      "name": "",
+      "promo": "Hidemyacc",
+      "tags": "Static Resi, Rotating Resi, Data, Mobile",
+      "color": "#FFE2E0",
+      "url": "https://www.birdproxies.com/partner=hidemyacc",
+      "isDisplay": true
     }
 
   ],
