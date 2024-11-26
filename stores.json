@@ -659,13 +659,24 @@
       "color": "#FFE2E0",
       "url": "https://www.birdproxies.com/partner=hidemyacc",
       "isDisplay": true
+    },
+    {
+      "id": "sx.org",
+      "discount": "3GB traffic",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-sx-org.png",
+      "name": "",
+      "promo": "HIDEMYACC",
+      "tags": "Rotating Resi, Mobile",
+      "color": "#E6EDFF",
+      "url": "https://sx.org/c/HIDEMYACC1",
+      "isDisplay": true
     }
 
   ],
   "vpn": [
     {
       "id": "veepn",
-      "discount": 10,
+      "discount": "10",
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-veepn.png",
       "name": "",
       "promo": "Hidemyacc10",
