@@ -178,10 +178,10 @@
     },
     {
       "id": "asocks",
-      "discount": 10,
+      "discount": "3GB traffic",
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-asocks.png",
       "name": "",
-      "promo": "Contact",
+      "promo": "HIDEMYACC11",
       "tags": "Static Resi,Rotating Resi,Data",
       "color": "#F0E4FF",
       "url": "",
