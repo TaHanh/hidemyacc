@@ -670,6 +670,17 @@
       "color": "#E6EDFF",
       "url": "https://sx.org/c/HIDEMYACC1",
       "isDisplay": true
+    },
+    {
+      "id": "proxycove",
+      "discount": "1$ credited",
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxycove.png",
+      "name": "",
+      "promo": "PROMOHIDEMYACC ",
+      "tags": "Rotating Resi, Data, Mobile",
+      "color": "#E6EDFF",
+      "url": "https://proxycove.com/?ref=44HGG4",
+      "isDisplay": true
     }
 
   ],
