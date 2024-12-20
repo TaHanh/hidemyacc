@@ -184,7 +184,7 @@
       "promo": "HIDEMYACC11",
       "tags": "Static Resi,Rotating Resi,Data",
       "color": "#F0E4FF",
-      "url": "",
+      "url": "https://asocks.com/?c=HIDEMYSOCKS",
       "isDisplay": true
     },
     {
@@ -426,7 +426,7 @@
       "promo": "HIDEMYACC",
       "tags": "Rotating Resi, Data, Mobile",
       "color": "#FDECEC",
-      "url": "https://ipnproxy.com/en",
+      "url": "https://ipnproxy.com/auth/register?referrals=18E386D0",
       "isDisplay": true
     },
     {
@@ -676,10 +676,21 @@
       "discount": "1$ credited",
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-proxycove.png",
       "name": "",
-      "promo": "PROMOHIDEMYACC ",
+      "promo": "PROMOHIDEMYACC",
       "tags": "Rotating Resi, Data, Mobile",
       "color": "#E6EDFF",
       "url": "https://proxycove.com/?ref=44HGG4",
+      "isDisplay": true
+    },
+    {
+      "id": "anonymous-proxy",
+      "discount": 20,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-anonymous-proxy.png",
+      "name": "",
+      "promo": "hidemyacc",
+      "tags": "Rotating Resi, Data",
+      "color": "#FFEBFF",
+      "url": "https://anonymous-proxies.net/?code=F96CF4D2DB971ADA5428BADF43531944",
       "isDisplay": true
     }
 
