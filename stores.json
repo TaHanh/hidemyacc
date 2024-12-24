@@ -188,17 +188,6 @@
       "isDisplay": true
     },
     {
-      "id": "smsactivate",
-      "discount": 10,
-      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-smsactivate-proxy.png",
-      "name": "",
-      "promo": "HIDEMYACC10",
-      "tags": "Data,Rotating Resi,Mobile",
-      "color": "#FED7BA",
-      "url": "https://proxy.sms-activate.org/ref/8136139",
-      "isDisplay": true
-    },
-    {
       "id": "ipfoxy",
       "discount": 8,
       "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-ipfoxy.png",
