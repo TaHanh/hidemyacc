@@ -681,6 +681,17 @@
       "color": "#FFEBFF",
       "url": "https://anonymous-proxies.net/?code=F96CF4D2DB971ADA5428BADF43531944",
       "isDisplay": true
+    },
+    {
+      "id": "proxy.cc",
+      "discount": 10,
+      "logo": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/images/logo-Proxy-cc.png",
+      "name": "",
+      "promo": "contact",
+      "tags": "Static Resi, Rotating Resi, Data",
+      "color": "#F0F0FF",
+      "url": "https://proxy.cc/?invitation_code=96Z1SE",
+      "isDisplay": true
     }
 
   ],
