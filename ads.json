@@ -27,5 +27,5 @@
     "vi": [],
     "zh": []
   },
-  "buy-proxy": "https://www.google.com/"
+  "proxyProvider": "https://www.google.com/"
 }
