@@ -1,9 +1,7 @@
 {
-  "landscapeImage": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
-  "portraitImage": "",
   "landscapeImages": {
     "en": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
-    "vi-VN": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_vie.gif",
+    "vi": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_vie.gif",
     "zh": ""
   },
   "portraitImages": {
@@ -12,5 +10,7 @@
     "zh": ""
   },
   "url": "chat",
-  "displayRange": ["/profiles"]
+  "displayRange": [
+    "/profiles"
+  ]
 }
