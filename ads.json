@@ -3,7 +3,7 @@
     "en": [
       {
         "url": "https://www.google.com/",
-        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/ads-banner-5.jpg"
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/banner-proxy-seller.png"
       },
       {
         "url": "",
@@ -18,19 +18,11 @@
     "en": [
       {
         "url": "",
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/banner-portrait-proxy-seller.png"
+      },
+      {
+        "url": "",
         "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/800x70-1.jpg"
-      },
-      {
-        "url": "",
-        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/ads-banner-3.png"
-      },
-      {
-        "url": "",
-        "image": "https://canavibag.com/uploads/banner-tui-vai-canavi.png"
-      },
-      {
-        "url": "https://www.google.com/",
-        "image": "https://balotuixachviet.vn/wp-content/uploads/2023/11/Banner-tui-canvas.jpg"
       }
     ],
     "vi": [],
