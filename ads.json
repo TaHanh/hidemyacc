@@ -2,6 +2,10 @@
   "landscapeImages": {
     "en": [
       {
+        "url": "https://www.google.com/",
+        "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/ads-banner-5.png"
+      },
+      {
         "url": "",
         "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/ads-banner-1.png"
       },
@@ -9,6 +13,7 @@
         "url": "https://www.google.com/",
         "image": "https://raw.githubusercontent.com/TaHanh/hidemyacc/refs/heads/main/images/ads-banner-2.png"
       }
+      
     ],
     "vi": [],
     "zh": []
