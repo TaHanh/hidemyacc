@@ -1,9 +1,5 @@
 {
-  "landscapeImage": {
-    "en": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
-    "vi": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_vie.gif",
-    "zh": ""
-  },
+  "landscapeImage": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
   "landscapeImages": {
     "en": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_eng.gif",
     "vi": "https://raw.githubusercontent.com/TaHanh/hidemyacc/main/Afi_vie.gif",
